@@ -1,0 +1,16 @@
+C:\Users\Mr.Lap\source\repos\DataDLVDLayer\bin\Debug\DataDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\DataDLVDLayer\bin\Debug\DataDLVDLayer.pdb
+C:\Users\Mr.Lap\source\repos\DataDLVDLayer\obj\Debug\DataDLVDLayer.csproj.AssemblyReference.cache
+C:\Users\Mr.Lap\source\repos\DataDLVDLayer\obj\Debug\DataDLVDLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Lap\source\repos\DataDLVDLayer\obj\Debug\DataDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\DataDLVDLayer\obj\Debug\DataDLVDLayer.pdb
+C:\Users\Mr.Lap\source\repos\DataDLVDLayer\bin\Debug\Guna.UI2.dll
+C:\Users\Mr.Lap\source\repos\DataDLVDLayer\obj\Debug\DataDLVD.7C119178.Up2Date
+C:\Users\Mr.Lap\source\repos\DVLD Poject\DataDLVDLayer\bin\Debug\DataDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\DVLD Poject\DataDLVDLayer\bin\Debug\DataDLVDLayer.pdb
+C:\Users\Mr.Lap\source\repos\DVLD Poject\DataDLVDLayer\bin\Debug\Guna.UI2.dll
+C:\Users\Mr.Lap\source\repos\DVLD Poject\DataDLVDLayer\obj\Debug\DataDLVDLayer.csproj.AssemblyReference.cache
+C:\Users\Mr.Lap\source\repos\DVLD Poject\DataDLVDLayer\obj\Debug\DataDLVDLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Lap\source\repos\DVLD Poject\DataDLVDLayer\obj\Debug\DataDLVD.7C119178.Up2Date
+C:\Users\Mr.Lap\source\repos\DVLD Poject\DataDLVDLayer\obj\Debug\DataDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\DVLD Poject\DataDLVDLayer\obj\Debug\DataDLVDLayer.pdb

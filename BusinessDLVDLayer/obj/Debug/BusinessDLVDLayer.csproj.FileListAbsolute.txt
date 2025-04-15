@@ -1,0 +1,20 @@
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\bin\Debug\BusinessDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\bin\Debug\BusinessDLVDLayer.pdb
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\bin\Debug\DataDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\bin\Debug\DataDLVDLayer.pdb
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\obj\Debug\BusinessDLVDLayer.csproj.AssemblyReference.cache
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\obj\Debug\BusinessDLVDLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\obj\Debug\Business.6CD57648.Up2Date
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\obj\Debug\BusinessDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\obj\Debug\BusinessDLVDLayer.pdb
+C:\Users\Mr.Lap\source\repos\BusinessDLVDLayer\bin\Debug\Guna.UI2.dll
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\bin\Debug\BusinessDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\bin\Debug\BusinessDLVDLayer.pdb
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\bin\Debug\DataDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\bin\Debug\Guna.UI2.dll
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\bin\Debug\DataDLVDLayer.pdb
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\obj\Debug\BusinessDLVDLayer.csproj.AssemblyReference.cache
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\obj\Debug\BusinessDLVDLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\obj\Debug\Business.6CD57648.Up2Date
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\obj\Debug\BusinessDLVDLayer.dll
+C:\Users\Mr.Lap\source\repos\DVLD Poject\BusinessDLVDLayer\obj\Debug\BusinessDLVDLayer.pdb
